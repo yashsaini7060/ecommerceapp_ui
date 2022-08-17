@@ -1,16 +1,16 @@
-# ecommerce
+# eCommerce App Flutter-UI
 
-A new Flutter project.
+- This is an ecommerce ui using flutter.
+- Here are few Screenchorts of the app.
+***
 
-## Getting Started
+## Home page
+![Home](./home.png)
+***
 
-This project is a starting point for a Flutter application.
+## Product Details Page
+![Product](./product.png)
+***
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cart Page
+![Cart](./cart.png)
